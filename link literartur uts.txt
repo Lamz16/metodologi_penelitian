@@ -1,0 +1,20 @@
+Method = K-Nearest Neighbor
+
+1. https://www.jurnal.stkippgritulungagung.ac.id/index.php/jipi/article/view/1910
+2. https://ejurnal.seminar-id.com/index.php/bits/article/view/1408
+3. https://ejurnal.seminar-id.com/index.php/bits/article/view/1626
+4. https://jurnalteknik.unisla.ac.id/index.php/teknika/article/view/994
+5. https://ejurnal.seminar-id.com/index.php/bits/article/view/2579
+6. https://www.sciencedirect.com/science/article/abs/pii/S092552732030205X
+7. https://ejournal.nusamandiri.ac.id/index.php/pilar/article/view/4420
+
+
+Method = Time series
+
+1. https://jurnal.iaii.or.id/index.php/RESTI/article/view/2562
+2. https://ejurnal.seminar-id.com/index.php/bits/article/view/2802
+3. https://ejournal.undiksha.ac.id/index.php/janapati/article/view/19139
+4. https://ejournal.undiksha.ac.id/index.php/janapati/article/view/19140
+5. https://ojs.uajy.ac.id/index.php/jbi/article/view/3535
+6. https://jurnal.atmaluhur.ac.id/index.php/sisfokom/article/view/1387
+7. https://journal.ikippgriptk.ac.id/index.php/saintek/article/view/5731
